@@ -4,3 +4,4 @@
 要删除win10的凭据管理器的自动保存密码,不然就默认使用前一次的账号密码登录github
 令狐冲会玩贱~~~
 edit by linghuc
+edit by yuebuqun!!!
